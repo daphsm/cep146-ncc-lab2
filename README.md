@@ -1,1 +1,2 @@
-# cep146-ncc-lab2
+# Lab 2 Demo File
+CEP146 Demo Repo - Jan 22, 2026
